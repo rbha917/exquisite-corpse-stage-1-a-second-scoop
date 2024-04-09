@@ -31,7 +31,7 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ### 🟥 Stage 1
 - Name/Alias: Roshni
 - Github account: https://github.com/rbha917
-- Published webpage for stage 1: https://rbha917.github.io/exquisite-corpse-stage-1-a-second-scoop/ 
+- Published webpage for stage 1:
 
 *This sketch represents an unconventional passing of time through a random flavoured scoop of ice cream being added onto an ice cream cone each second. The title is a play on words because the phrase would mean asking for a second scoop of ice cream on a cone when this is adding a scoop of ice cream to the cone every second. The ice cream cone refreshes when the scoop tower reaches a point where it would overflow the page if another scoop were to be added. I wanted to show how more of something can be accumulated through the passing of time until it reaches a point where there can be no more and must build up from the bottom again.*
 
